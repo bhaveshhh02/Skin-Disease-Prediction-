@@ -1,4 +1,4 @@
-# 🩺 Skin Disease Prediction System
+#  Skin Disease Prediction System
 
 ![Python](https://img.shields.io/badge/Python-3.9-blue)
 ![ML](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-orange)
@@ -6,13 +6,13 @@
 
 ---
 
-## 📌 Overview
+##  Overview
 
 The **Skin Disease Prediction System** is a machine learning-based application that predicts the likelihood of skin diseases using patient health data. This project demonstrates an end-to-end data science workflow, from data preprocessing to model deployment.
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 * Build a predictive model for early detection of skin diseases
 * Analyze healthcare data to extract meaningful insights
@@ -20,7 +20,7 @@ The **Skin Disease Prediction System** is a machine learning-based application t
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 The dataset includes medical and patient-related features such as:
 
@@ -37,20 +37,20 @@ The dataset includes medical and patient-related features such as:
 
 ---
 
-## ⚙️ Project Workflow
+##  Project Workflow
 
-### 1️⃣ Data Cleaning
+### 1️ Data Cleaning
 
 * Treated missing values
 * Removed inconsistencies
 
-### 2️⃣ Exploratory Data Analysis (EDA)
+### 2️ Exploratory Data Analysis (EDA)
 
 * Visualized distributions
 * Identified correlations
 * Extracted key insights
 
-### 3️⃣ Model Building
+### 3️ Model Building
 
 Applied multiple ML models:
 
@@ -58,7 +58,7 @@ Applied multiple ML models:
 * Decision Tree
 * Random Forest
 
-### 4️⃣ Model Evaluation
+### 4️ Model Evaluation
 
 * Accuracy
 * Precision
@@ -66,11 +66,11 @@ Applied multiple ML models:
 * F1-score
 * Confusion Matrix
 
-### 5️⃣ Model Optimization
+### 5️ Model Optimization
 
 * Hyperparameter tuning using GridSearchCV
 
-### 6️⃣ Model Saving
+### 6️ Model Saving
 
 * Saved trained model using Pickle (`.pkl` file)
 
@@ -94,7 +94,7 @@ Applied multiple ML models:
 
 ---
 
-## ▶️ How to Run the Project
+##  How to Run the Project
 
 ### 1. Clone Repository
 
@@ -115,36 +115,28 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
----
 
-## 📷 Demo
 
-*Add screenshots of your app here*
 
----
 
-## 📈 Results
+##  Results
 
 * Achieved high accuracy on test data
 * Identified key predictors like glucose and BMI
 * Demonstrated ML application in healthcare
 
----
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 * Add image-based prediction (Deep Learning)
 * Improve model accuracy
 * Deploy on cloud (AWS / Render)
 * Mobile app integration
 
----
-
-## 👨‍💻 Author
 
 **Bhavesh Patil**
-📧 [bp012114@gmail.com](mailto:bp012114@gmail.com)
-🔗 https://www.linkedin.com/in/bhaveshpatil0001
+ [bp012114@gmail.com](mailto:bp012114@gmail.com)
+ https://www.linkedin.com/in/bhaveshpatil0001
 
 ---
 
